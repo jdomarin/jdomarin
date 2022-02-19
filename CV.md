@@ -1,24 +1,25 @@
 # CURRICULUM VITAE
 
-- Identité et âge :	Jérémy DOMARIN, 31 ans (né en juin 1990)
-- Expérience : 9 ans d’expérience en développement et intégration de logiciels (R&D)
-- Coordonnées
-	- Adresse : Le Vauban A – 136 chemin du Puy – 06600 ANTIBES – France
-	- Courriel : jdomarin at gmail.com
-	– Téléphone : me demander
-- Nationalité : Française
-- Profils en ligne : LinkedIn : https://www.linkedin.com/in/j%C3%A9r%C3%A9my-domarin/
-- GitHub : https://github.com/jdomarin
-- Facebook : https://www.facebook.com/jdomarin
-- Instagram : https://www.instagram.com/jdomarin
-- Stack Overflow : https://stackoverflow.com/users/8272767/j%c3%a9r%c3%a9my-domarin
-- Langues
-	- Français : maternelle
-	- Anglais : courant, score obtenu au TOEIC de 880 en avril 2010
-	- Espagnol : notions
-- Domaines de prédilection : Cybersécurité, big data, traitement de données, REST API, applications web, sciences industrielles
-- Mobilité : Titulaire du permis B. Rayon de 70 km autour d’Antibes. Maximum 2 heures par jour de trajet domicile-travail aller-retour. Courts déplacements ponctuels et réguliers acceptés au-delà de cette distance.
-- Télétravail : pleinement ouvert
+- *Identité et âge :*	Jérémy DOMARIN, 31 ans (né en juin 1990)
+- *Expérience :* 9 ans d’expérience en développement et intégration de logiciels (R&D)
+- **Coordonnées :**
+	- *Adresse :* Le Vauban A – 136 chemin du Puy – 06600 ANTIBES – France
+	- *Courriel :* jdomarin at gmail.com
+	– *Téléphone :* me demander
+- *Nationalité :* Française
+- **Profils en ligne :**
+	- *LinkedIn :* https://www.linkedin.com/in/j%C3%A9r%C3%A9my-domarin/
+	- *GitHub :* https://github.com/jdomarin
+	- *Facebook :* https://www.facebook.com/jdomarin
+	- *Instagram :* https://www.instagram.com/jdomarin
+	- *Stack Overflow :* https://stackoverflow.com/users/8272767/j%c3%a9r%c3%a9my-domarin
+- **Langues :**
+	- *Français :* maternelle
+	- *Anglais :* courant, score obtenu au TOEIC de 880 en avril 2010
+	- *Espagnol :* notions
+- *Domaines de prédilection :* Cybersécurité, big data, traitement de données, REST API, applications web, sciences industrielles
+- *Mobilité :* Titulaire du permis B. Rayon de 70 km autour d’Antibes. Maximum 2 heures par jour de trajet domicile-travail aller-retour. Courts déplacements ponctuels et réguliers acceptés au-delà de cette distance.
+- *Télétravail :* pleinement ouvert
 
 # DOMAINES DE COMPÉTENCES
 
@@ -55,7 +56,7 @@ Offres automatisées d’instances de services de bases de données aux dévelop
 Une partie de la mission s'effectue en télétravail.
 ### Environnement technique
 - Python, Shell Unix, Go
-- Docker, Swarm, Kubernetes, cloud privé, container as a service (CaaS), CloudFoundry (Platform as a Service, PaaS)
+- Docker, Swarm, Kubernetes as a service (KaaS), cloud privé, container as a service (CaaS), CloudFoundry (Platform as a Service, PaaS)
 - Ubuntu (sur WSL et machine virtuelle)
 - Git, Gitlab, Gitlab CI
 - Redis, Dynomite, MongoDB, Percona XtraDB cluster (MySQL avec réplication et redondance)
@@ -218,15 +219,19 @@ Développement et maintenance évolutive, sous Kibana ou autres solutions équiv
 
 Administration de la plate-forme Kibana : installation, configuration, mises à jour du cluster, mise en production des changements. Documentation sous Confluence
 
-D’avril à novembre 2017 : Création et déploiement de rapports budgétaires sous Kibana grâce au traitement en Python de données exportées au format Excel.
+**D’avril à novembre 2017**
+Création et déploiement de rapports budgétaires sous Kibana grâce au traitement en Python de données exportées au format Excel.
 
 Planification, exécution et suivi de scans d'une soixantaine d'applications web et de web services REST/SOAP dans Qualys WAS et Burp Suite. Notification aux équipes applicatives des vulnérabilités trouvées. Assure la surveillance de la résolution de ces vulnérabilités
 
-De septembre 2017 à janvier 2018 : Développement en Java sur un framework de tests automatisés basé sur Sélénium.
+**De septembre 2017 à janvier 2018**
+Développement en Java sur un framework de tests automatisés basé sur Sélénium.
 
-D’octobre 2018 à juin 2019 : Développement en open source interne à Amadeus sur PTRReport, une application web de reporting d’anomalies logicielles. Technologies : Python, Django, Redis, PostgreSQL, Docker, HTML, JavaScript, CSS.
+**D’octobre 2018 à juin 2019**
+Développement en open source interne à Amadeus sur PTRReport, une application web de reporting d’anomalies logicielles. Technologies : Python, Django, Redis, PostgreSQL, Docker, HTML, JavaScript, CSS.
 
-De 2017 à 2019 : Délivrance de sessions annuelles de sensibilisation à la sécurité applicative à plusieurs dizaines d'ingénieurs QA dans le cadre du renouvellement de la certification PCI-DSS d’Amadeus
+**De 2017 à 2019**
+Délivrance de sessions annuelles de sensibilisation à la sécurité applicative à plusieurs dizaines d'ingénieurs QA dans le cadre du renouvellement de la certification PCI-DSS d’Amadeus
 
 ### Résultats
 - Une trentaine de rapports sous Kibana, exploités régulièrement par le management
@@ -286,7 +291,7 @@ Ingénieur R&D C++/Java et intégration logicielle
 - Support en production : s'assurer que les applications côté serveur fonctionnent correctement sur les plates-formes de production et de test accessibles aux clients, surveiller les mises en production avec les opérateurs d’exploitation à Munich
 - Support au développement : s'assurer que les développeurs aient un environnement stable et solide leur permettant de mener à bien les projets de développement qui leur sont confiés
 
-- 2014, 7 mois :
+**2014, 7 mois**
 Pilote de la migration de la GUI d'Altéa Inventory à « Software Factory » : Étudier la faisabilité de la migration du code et des processus d'intégration et de livraison continues de la GUI d'Altéa Inventory grâce à Jenkins
 
 Gestion des versions du code : Étudier la faisabilité de la migration de CVS à Git/Stash
@@ -301,21 +306,22 @@ Utilisation quotidienne de JIRA pour gérer les tickets de maintenance, grâce �
 
 Architecture et composants communs à l’application : effectuer les développements sur les composants communs à toutes les applications d'Altéa Inventory soit en C++, soit en Java
 
-- Jusqu’en 2014 : Intégration des changements dans le code de l'application, construction et livraison des nouvelles versions d'Altéa Inventory, à la fois côté serveur et côté client. Travail transféré progressivement à Bangalore à partir de la fin 2014.
+**Jusqu’en 2014**
+Intégration des changements dans le code de l'application, construction et livraison des nouvelles versions d'Altéa Inventory, à la fois côté serveur et côté client. Travail transféré progressivement à Bangalore à partir de la fin 2014.
 
-- 2015, 8 mois :
+**2015, 8 mois**
 ParamWeb : Développement en Python 2.7/HTML5/CSS3/JavaScript suivant le framework Django d'un site web visant à documenter les paramètres et variables d'activation d'Altéa Inventory. Développement et gestion du projet selon la méthodologie Agile Scrum avec 3 collègues
 
-- Fin 2015, 3 semaines :
+**Fin 2015, 3 semaines**
 Recensement de tous les scripts automatisés (crontabs) qui s’exécutent sur les machines de développement afin de déterminer la propriété et la pertinence de chacun, et de supprimer ceux qui sont obsolètes
 
-- Début 2015, 3 mois :
+**Début 2015, 3 mois**
 Conception et développement d’un programme d’installation de la GUI Java sur mesure pour les compagnies aériennes, en C++ pour la partie auto-extraction de l’exécutable, d’après le code de 7-Zip et Java pour l’installation proprement dite
 
-- 2013, 3 mois :
+**2013, 3 mois**
 Rédaction d’un guide de support aux opérations pour les personnes d’astreinte
 
-A partir de juin 2015, jusqu’à la fin de la mission :
+**A partir de juin 2015, jusqu’à la fin de la mission**
 animation d’un groupe de développeurs de la GUI Java, une fois par mois pour parler des évolutions, des nouvelles versions du logiciel, des changements d’architecture et améliorer la qualité du code, unifier le style de code sur toute l’application
 
 ### Résultats
@@ -332,12 +338,12 @@ animation d’un groupe de développeurs de la GUI Java, une fois par mois pour 
 ## ABYLSEN / Startup anonyme (06) | 10 - 24 mars 2016 (2 semaines)
 Consultant en développement Java d’applications web
 ### Environnement technique
-- Back-end : Java/J2EE, Play framework, Ebean
-- Front-end : Bootstrap, Ajax, Scala, HTML, CSS, JavaScript, Ajax
+- *Back-end :* Java/J2EE, Play framework, Ebean
+- *Front-end :* Bootstrap, Ajax, Scala, HTML, CSS, JavaScript, Ajax
 - Git
-- Activator : compilation et démarrage du serveur web
+- Activator, qui est un outil de compilation et démarrage du serveur web
 - SBT
-- Environnement Unix : Poste de travail Mac OS X et machine virtuelle Ubuntu
+- *Environnement Unix :* Poste de travail Mac OS X et machine virtuelle Ubuntu
 - Eclipse
 - VirtualBox
 - Fichiers CSV et Excel, pas de base de données proprement dite
@@ -385,7 +391,7 @@ Ingénieur stagiaire en développement Visual C++ (stage de fin d’études)
 - Planification du développement des fonctionnalités et des itérations
 - Conception objet, utilisation d'UML et d’Enterprise Architect
 - Extraction d'information depuis les spécifications techniques au format Word
-- Lecture et modification de « fiches de test » : fichiers XML décrivant les tests
+- Lecture et modification de *fiches de test* : fichiers XML décrivant les tests
 - Développement en Visual C++ d’une interface graphique pour mettre à jour les fiches de tests à partir des spécifications
 - Développement en Visual C++ d’une interface graphique pour créer et mettre à jour des listes de tests selon des critères de recherche : nature des tests, matériel, etc.
 - Génération de la documentation technique avec Doxygen aux formats HTML et PDF
