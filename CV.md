@@ -51,6 +51,7 @@
 
 ## ALTEN / Orange (06) | depuis octobre 2020 (16 mois, en cours)
 Offres automatisées d’instances de services de bases de données aux développeurs de l’entité Hébergement et d’Exploitation de la Digital Factory à Orange France
+
 Une partie de la mission s'effectue en télétravail.
 ### Environnement technique
 - Python, Shell Unix, Go
@@ -61,16 +62,18 @@ Une partie de la mission s'effectue en télétravail.
 - Outils de monitoring : Prometheus, Alert manager, Consul, Xymon, ...
 ### Contexte et objectifs
 Entité Hébergement et Exploitation d’Orange (300 personnes) en charge de l’hébergement des données des applications et services grand public d’Orange France (site orange.fr, sosh.fr, Espace client…)
+
 Équipe Scrum de 8 développeurs, 1 scrum master, 1 product owner, 1 lead développeur et gérée par un manager fonctionnel
+
 Fourniture et maintien en condition opérationnelle d’instances de bases de données sur cloud privé Orange à l’intention des développeurs de la Digital Factory (1800 personnes)
 ### Réalisations
 
-Écriture d’un script qui permet de vérifier l’état d’un cluster de nœuds MongoDB, Redis, Dynomite ou XtraDB
-Importation dans Prometheus de métriques exportées par Docker Swarm pour intégration dans Grafana
-Amélioration de l’image Unix de Percona XtraDB cluster en termes de stabilité, performance, traçabilité, facilité d’investigation des incidents
-Migration de plusieurs centaines d’instances de bases de données à une nouvelle API réseau sans interruption de service pour les utilisateurs
-Implémentation d’une application web permettant d’afficher les dernières versions d’une centaine de projets Gitlab développés par l’équipe
-Tâches récurrentes (astreinte aux heures de bureau) : réponse aux demandes des clients, supervision opérationnelle, traitement des demandes entrantes hors Scrum ou sprint en cours
+- Écriture d’un script qui permet de vérifier l’état d’un cluster de nœuds MongoDB, Redis, Dynomite ou XtraDB
+- Importation dans Prometheus de métriques exportées par Docker Swarm pour intégration dans Grafana
+- Amélioration de l’image Unix de Percona XtraDB cluster en termes de stabilité, performance, traçabilité, facilité d’investigation des incidents
+- Migration de plusieurs centaines d’instances de bases de données à une nouvelle API réseau sans interruption de service pour les utilisateurs
+- Implémentation d’une application web permettant d’afficher les dernières versions d’une centaine de projets Gitlab développés par l’équipe
+- Tâches récurrentes (astreinte aux heures de bureau) : réponse aux demandes des clients, supervision opérationnelle, traitement des demandes entrantes hors Scrum ou sprint en cours
 
 ### Résultats
 - Amélioration de la stabilité des instances de bases de données des clients
@@ -80,6 +83,7 @@ Tâches récurrentes (astreinte aux heures de bureau) : réponse aux demandes d
 
 ## ALTEN / Naval Group (83)| janvier – juillet 2020 (6 mois)
 Développement d’une application de cartographie de navires de la Marine nationale
+
 Une partie de la mission a été effectuée en télétravail, à partir de mars 2020 à cause du confinement dû à la pandémie de coronavirus
 ### Environnement technique
 - REST API, Postman, JSON
@@ -94,8 +98,11 @@ Une partie de la mission a été effectuée en télétravail, à partir de mars 
 
 ### Contexte et objectifs
 Naval Group (ex DCN/DCNS), société dans le domaine du naval de défense, construction et maintien en condition opérationnelle de navires (bateaux et sous-marins militaires)
+
 Membre d'une équipe de développeurs et d’ingénieurs en cybersécurité de 7 personnes
+
 Données et environnement sensible quant à la sécurité de la défense nationale
+
 Mise en place d’une solution logicielle de cartographie physique de navires de la Marine nationale française, capable d’interagir avec d’autres applications auxquelles cette solution sera associée
 
 ### Réalisations
@@ -111,9 +118,9 @@ Mise en place d’une solution logicielle de cartographie physique de navires de
 - Démonstration de la solution logicielle au management
 
 ### Résultats
-Application mise en place, testée et fonctionnelle, prête à être déployée en production
-Documentation technique et fonctionnelle rédigée et disponible
-Client satisfait du résultat
+- Application mise en place, testée et fonctionnelle, prête à être déployée en production
+- Documentation technique et fonctionnelle rédigée et disponible
+- Client satisfait du résultat
 
 ## ALTEN / Mane et Fils (06) | novembre – décembre 2019 (2 mois)
 Développeur Python back-end d’une application de gestion de projets (Abou Simbel)
@@ -130,12 +137,16 @@ Développeur Python back-end d’une application de gestion de projets (Abou Sim
 
 ### Contexte et objectifs
 Mane (laboratoire de développement technologique) : société industrielle de fabrication de substances chimiques, d’arômes, de colorants, de parfums pour l’industrie pharmaceutique, alimentaire ou cosmétique. Siège social : Le Bar-sur-Loup (06)
+
 Inclusion à une équipe encadrée par un chef de projet, composée de 4 développeurs back-end, 2 développeurs front-end et un ingénieur QA Scrum master. Cette équipe a pour mission la livraison d’une application web de gestion de projets créée à partir de zéro. J’ai rejoint cette équipe pour l’aider à tenir les délais
+
 Projet au forfait, méthodologie Agile Scrum, sprints de trois semaines, six sprints entre mi-septembre et fin janvier pour la première livraison du logiciel
 
 ### Réalisations
 Proposition, estimation et implémentation d’améliorations techniques de l’application : mise en place d’un système de journalisation, implémentation de la persistance de sessions utilisateur, ajout de la prise en charge du protocole LDAP pour l’authentification d’utilisateurs Windows côté client final
+
 Architecture logicielle : diagrammes de classes, de séquence
+
 Planification et priorisation des tâches à implémenter pour la première livraison de l’application fin janvier 2020
 
 ### Résultats
@@ -159,7 +170,9 @@ Développeur Python back-end d’une application exposant des API REST
 
 ### Contexte et objectifs
 K-City Labs est la société informatique du groupe Kinaxia, spécialisé dans les solutions technologiques pour les acteurs de l’immobilier et de l’urbanisme. Produits phares : CityScan et Preventimmo. Siège social : Sophia Antipolis (06)
-Au sein d'une équipe de développeurs multi-langages de 6 personnes : contribuer au développement en Python d’une application de récupération automatisée de données sur le web et de recoupage de différentes sources de données pour construire des indicateurs pour l’immobilier. Produire des données stockées dans des collections Mongo. Exposer ces données sur une API REST utilisée par les développeurs front-end de K-City Labs
+
+Au sein d'une équipe de développeurs multi-langages de 6 personnes : contribuer au développement en Python d’une application de récupération automatisée de données sur le web et de recoupage de différentes sources de données pour construire des indicateurs pour l’immobilier. Produire des données stockées dans des collections Mongo. 
+Exposer ces données sur une API REST utilisée par les développeurs front-end de K-City Labs
 
 ### Réalisations
 - Étude de l’existant, analyse des besoins des utilisateurs finaux
@@ -191,25 +204,34 @@ Développeur d'outils communautaires et white hat pour ingénieurs QA
 ### Contexte et objectifs
 Amadeus est le leader européen des technologies pour l’industrie du voyage, principalement pour les réservations : aérien, rail, hôtel, location de voitures, ferry...)
 Au sein d'une équipe transverse de 4 puis 6 personnes :
+
 Fournir du support technique et du logiciel répondant aux besoins de la communauté d'ingénieurs QA et des développeurs de SGB (Strategic Growth Businesses), les clients finaux des applications développées par SGB étant les aéroports, les compagnies ferroviaires, les chaînes hôtelières.
+
 Veiller à ce que le cycle de vie de développement des applications respecte les standards et exigences de sécurité applicative : pour cela, effectuer des tests automatisés ou manuels des applications web de SGB, et animer la communauté de white hats. Délivrer des sessions annuelles de sensibilisation aux ingénieurs QA.
 
 ### Réalisations
 Étude de l’existant, collecte et analyse des besoins des utilisateurs finaux
+
 Estimation du travail, que ce soit de la maintenance applicative ou une évolution logicielle
+
 Développement et maintenance évolutive, sous Kibana ou autres solutions équivalentes, de rapports montrant des métriques sur des anomalies logicielles ou campagnes de tests.
 
 Administration de la plate-forme Kibana : installation, configuration, mises à jour du cluster, mise en production des changements. Documentation sous Confluence
+
 D’avril à novembre 2017 : Création et déploiement de rapports budgétaires sous Kibana grâce au traitement en Python de données exportées au format Excel.
+
 Planification, exécution et suivi de scans d'une soixantaine d'applications web et de web services REST/SOAP dans Qualys WAS et Burp Suite. Notification aux équipes applicatives des vulnérabilités trouvées. Assure la surveillance de la résolution de ces vulnérabilités
+
 De septembre 2017 à janvier 2018 : Développement en Java sur un framework de tests automatisés basé sur Sélénium.
+
 D’octobre 2018 à juin 2019 : Développement en open source interne à Amadeus sur PTRReport, une application web de reporting d’anomalies logicielles. Technologies : Python, Django, Redis, PostgreSQL, Docker, HTML, JavaScript, CSS.
+
 De 2017 à 2019 : Délivrance de sessions annuelles de sensibilisation à la sécurité applicative à plusieurs dizaines d'ingénieurs QA dans le cadre du renouvellement de la certification PCI-DSS d’Amadeus
 
 ### Résultats
-Une trentaine de rapports sous Kibana, exploités régulièrement par le management
-Un millier de vulnérabilités trouvées sur une soixantaine d'applications web ou API REST, une centaine d'anomalies en cours de résolution
-Amélioration des performances et nouvelles fonctionnalités disponibles dans PTRReport
+- Une trentaine de rapports sous Kibana, exploités régulièrement par le management
+- Un millier de vulnérabilités trouvées sur une soixantaine d'applications web ou API REST, une centaine d'anomalies en cours de résolution
+- Amélioration des performances et nouvelles fonctionnalités disponibles dans PTRReport
 
 ## ABYLSEN / Caisses Sociales de Monaco (98) | mai - août 2016 (3 mois)
 Consultant en développement Java/J2EE d’applications web orientées santé
@@ -229,16 +251,22 @@ Au sein du Pôle Réalisation de Projets du service informatique des Caisses Soc
 
 ### Réalisations
 Étude de l’existant, analyse des besoins des utilisateurs finaux
+
 Estimation des tâches confiées : maintenance applicative et/ou évolution logicielle
+
 Développement en Java pour le back-end et ZK en front-end avec Éclipse et de nombreux plugins :
+
 Feuille de soins électronique pour les médecins : implémentation de la persistance de données tout au long de la même session applicative du site web ; notion de « view state ». Communication d’informations entre deux onglets
+
 Gestion des suspens de retraite : changements de structure et de contenu de bases de données comme l’ajout de tables, la suppression, modification ou l’ajout de lignes en base de données ; des modifications sur l’interface graphique d’une application web ; l’implémentation de nouveaux algorithmes pour des batches, qui sont des applications Java en lecture ou écriture en base de données produisant des rapports à intervalles fréquents ou à la demande
+
 Débogage, livraison logicielle avec Jenkins et Maven, déploiement sur serveur d’intégration avec Tomcat manager, support à la phase d’acceptation de l’application en environnement de recette
+
 Correction d’anomalies reportées par les utilisateurs finaux ou les testeurs
 
 ### Résultats
-Application de feuille de soins électronique mise en production avec les nouvelles fonctionnalités requises par les clients
-Application de gestion des suspens de retraite : 70 % des fonctionnalités développées, 100 % d’exécution des tests unitaires, projet migré à Maven
+- Application de feuille de soins électronique mise en production avec les nouvelles fonctionnalités requises par les clients
+- Application de gestion des suspens de retraite : 70 % des fonctionnalités développées, 100 % d’exécution des tests unitaires, projet migré à Maven
 
 ## Abylsen / Amadeus R&D-AIR (06) | janvier 2013 - avril 2016 (39 mois)
 Ingénieur R&D C++/Java et intégration logicielle
@@ -260,11 +288,17 @@ Ingénieur R&D C++/Java et intégration logicielle
 
 - 2014, 7 mois :
 Pilote de la migration de la GUI d'Altéa Inventory à « Software Factory » : Étudier la faisabilité de la migration du code et des processus d'intégration et de livraison continues de la GUI d'Altéa Inventory grâce à Jenkins
+
 Gestion des versions du code : Étudier la faisabilité de la migration de CVS à Git/Stash
+
 Compilation du code : Étudier la faisabilité de la migration d'un système de compilation fait sur mesure, vers Maven
+
 Transfert et exploitation des dépendances middleware de la GUI Java sous Nexus
+
 Modernisation des processus et transfert de connaissances : Adaptation en Shell Unix du script de compilation de la GUI d'Altéa Inventory et réunions bimensuelles avec mon coéquipier à Bangalore
+
 Utilisation quotidienne de JIRA pour gérer les tickets de maintenance, grâce à Kanban
+
 Architecture et composants communs à l’application : effectuer les développements sur les composants communs à toutes les applications d'Altéa Inventory soit en C++, soit en Java
 
 - Jusqu’en 2014 : Intégration des changements dans le code de l'application, construction et livraison des nouvelles versions d'Altéa Inventory, à la fois côté serveur et côté client. Travail transféré progressivement à Bangalore à partir de la fin 2014.
@@ -280,7 +314,9 @@ Conception et développement d’un programme d’installation de la GUI Java su
 
 - 2013, 3 mois :
 Rédaction d’un guide de support aux opérations pour les personnes d’astreinte
-A partir de juin 2015 : animation d’un groupe de développeurs de la GUI Java, une fois par mois pour parler des évolutions, des nouvelles versions du logiciel, des changements d’architecture et améliorer la qualité du code, unifier le style de code sur toute l’application
+
+A partir de juin 2015, jusqu’à la fin de la mission :
+animation d’un groupe de développeurs de la GUI Java, une fois par mois pour parler des évolutions, des nouvelles versions du logiciel, des changements d’architecture et améliorer la qualité du code, unifier le style de code sur toute l’application
 
 ### Résultats
 - ParamWeb déployé en production et utilisé par les analystes et ingénieurs d’implémentation pour gérer le cycle de vie de leurs paramètres d’activation
@@ -308,21 +344,24 @@ Consultant en développement Java d’applications web
 
 ### Contexte et objectifs
 Startup anonyme basée à Nice Ouest, effectif : 8 personnes
+
 Secteur d’activité : développement et promotion/vente d’algorithmes et de produits liés à l’allocation et la fructification d’actifs ; PAS de l’asset management
+
 Seul consultant et développeur dans l’équipe composée principalement d’analystes financiers
+
 Intervention de 2 semaines pour améliorer un prototype, Robo Advisor, à présenter à un client final de la startup anonyme
 
 ### Réalisations
-Étude de l’existant
-Prise en main de l’environnement
-Développement de l’interface web en Java, HTML/Scala, CSS, JavaScript et Ajax, ajout de formulaires permettant d’effectuer des simulations financières
-Développement en Java d’algorithmes d’allocations d’actifs déjà existants de simulation de projets financiers
-Développement d’un agrégateur de simulation de projets financiers d’allocations d’actifs, rendu graphique de cette agrégation
+- Étude de l’existant
+- Prise en main de l’environnement
+- Développement de l’interface web en Java, HTML/Scala, CSS, JavaScript et Ajax, ajout de formulaires permettant d’effectuer des simulations financières
+- Développement en Java d’algorithmes d’allocations d’actifs déjà existants de simulation de projets financiers
+- Développement d’un agrégateur de simulation de projets financiers d’allocations d’actifs, rendu graphique de cette agrégation
 
 ### Résultats
-Travail inachevé, résultat non conforme aux attentes du client
-Trop de pression, journées longues, mission ayant duré un jour de plus que prévu
-Ce devait être une sorte de période d'essai pour une mission plus longue avec cette startup plus tard, qui n'a jamais eu lieu bien sûr...
+- Travail inachevé, résultat non conforme aux attentes du client
+- Trop de pression, journées longues, mission ayant duré un jour de plus que prévu
+- Ce devait être une sorte de période d'essai pour une mission plus longue avec cette startup plus tard, qui n'a jamais eu lieu bien sûr...
 
 ## LGM / PSA Peugeot Citroën (78) | avril - septembre 2012 (6 mois)
 Ingénieur stagiaire en développement Visual C++ (stage de fin d’études)
@@ -336,10 +375,10 @@ Ingénieur stagiaire en développement Visual C++ (stage de fin d’études)
 - Windows Vista
 
 ### Contexte et objectifs
-Usine PSA Peugeot-Citroën de Vélizy B, centre technique national
-Rattaché au département « Boîtier de Servitude et Logiciel Embarqué »
-Sujet : Outil de génération automatique de listes d’exécution de tests sur structure d’accueil BSI (boîtier de servitude intégré), i.e. calculateur embarqué automobile
-Projet par itérations, livrables à fournir tous les mois
+- Usine PSA Peugeot-Citroën de Vélizy B, centre technique national
+- Rattaché au département « Boîtier de Servitude et Logiciel Embarqué »
+- Sujet : Outil de génération automatique de listes d’exécution de tests sur structure d’accueil BSI (boîtier de servitude intégré), i.e. calculateur embarqué automobile
+- Projet par itérations, livrables à fournir tous les mois
 
 ### Réalisations
 - Prise en main de Visual Studio 2005
