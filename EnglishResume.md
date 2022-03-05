@@ -67,8 +67,9 @@ Lycée Simone de Beauvoir, 95140 Garges-lès-Gonesse, France. Baccalauréat (Fre
 # Work experience
 
 ## Orange, as an Alten contractor
-* October 2020 to now*
-* Part of the mission done in remote work due to Covid-19 pandemic*
+*October 2020 to now*
+
+*Part of the mission done in remote work due to Covid-19 pandemic*
 
 ### Context
 Member of a team of 10 to 12 people that provides database as a service (DBaaS) to other development teams of the R&D of Orange France.
@@ -92,7 +93,9 @@ These development teams are responsible of Orange public applications like Orang
 
 ## Naval Group, as an Alten contractor
 *2020, January to July*
+
 *6 months, full time*
+
 *Part of the mission done in remote work due to Covid-19 pandemic*
 
 ### Context
@@ -121,7 +124,9 @@ Naval constructions for French and foreign marine military corpses. Confidential
 
 ## Mane LDT, as an Alten contractor
 *2019, November to December*
+
 *2 months, Full-time*
+
 *No remote work*
 
 ### Context
@@ -150,7 +155,9 @@ The team comprised 4 back-end, 2 front-end developers, 1 scrum master, 1 project
 
 ## K-City Labs, Kinaxia group, as an Alten contractor
 *2019, September to October*
+
 *2 months, Full time*
+
 *No remote work*
 
 ### Context
@@ -182,7 +189,9 @@ Developed features were loaded to production, successfully tested, available for
 
 ## Amadeus, as an Alten contractor
 *November 2016 to August 2019*
+
 *3 years, Full time*
+
 *No remote work*
 
 ### Context
@@ -216,7 +225,9 @@ On the other hand, be a QA white hat, application security expert, in charge of 
 
 ## Caisses Sociales de Monaco, as an Abylsen contractor
 *2016, May to August*
+
 *3 months, full time*
+
 *No remote work*
 
 ### Context
@@ -242,9 +253,12 @@ The Monaco principality owned company manages the social security and pension, r
 - **Operating system & Tools**: Windows, SVN, Tomcat, DB2, Jenkins, Maven, Eclipse, SQL
 - **Working methodology**: Waterfall
 
-##Amadeus, as an Abylsen contractor
+## Amadeus, as an Abylsen contractor
 *January 2013 to April 2016*
+
 *3 years, full time*
+
+*No remote work*
 
 ### Context
 Amadeus is the European leader of IT services for the tourism and travel industry.
@@ -279,7 +293,10 @@ I was part of the Inventory Integration team, in the Airline IT division.
 
 ## PSA Peugeot Citroën, as an LGM Ingénierie contractor
 *2012, April to September*
+
 *6 months, internship*
+
+*No remote work*
 
 ### Context
 PSA Peugeot-Citroën is a French car maker. I was working as an intern in the embedded software – bondage box (*Boîtier de Servitude – Logiciel embarqué* in French) of the technical center at Velizy (78), near Paris, France
