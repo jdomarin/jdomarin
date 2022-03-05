@@ -1,6 +1,6 @@
 # Jérémy Domarin resume in English
 
-*This is the English version of the CV.md file.
+*This is the English version of the CV.md file.*
 
 ## Introduction
 
@@ -10,7 +10,7 @@
 
 **Main Skills**: Python/Django, Java, Elastic Stack, Unix shell, NodeJS development, software integration
 
-**Personal relevant facts**: 
+**Personal relevant facts**:
 - Passionate of IT security
 - Love reading books and "black" music styles
 - Also member of MENSA International, known as "the high IQ society"
@@ -34,7 +34,7 @@
 - **Code editors**: Eclipse, Intellij Idea, Visual Studio, VS Code, Sublime Text, Vi/Vim, Notepad++
 - **Code versioning systems**: Git, Mercurial, CVS, SVN, ClearCase
 - **Web technologies**: WebLogic Server, Tomcat, Visual C++, Web Services
-- **Build systems: Maven, Ant, Apache, Poetry
+- **Build systems**: Maven, Ant, Apache, Poetry
 - **Continuous integration**: Jenkins, Gitlab CI, Buildbot
 - **Protocols**: Active directory (LDAP), SSL/TLS, HTTP(S), FTP, Telnet, Redis, TCP, UDP
 - **Quality assurance**: Quality center
@@ -57,17 +57,18 @@ Engineer degree with a specialization in embedded software and systems
 Not applicable - I went through 2 years of preparatory classes after the A levels (French *baccalauréat*) before joining TELECOM Nancy.
 
 ### High School
-Lycée Simone de Beauvoir, 95140 Garges-lès-Gonesse, France	2007
+Lycée Simone de Beauvoir, 95140 Garges-lès-Gonesse, France. Baccalauréat (French equivalent of British A levels) obtained in 2007
 
 ## Languages
 **French**: Native
-**English**: Proficient
+**English**: Proficient. Got 880 points at TOEIC in 2010
 **Spanish**: Elementary
 
 # Work experience
 
 ## Orange, as an Alten contractor
-* October 2020 to now
+* October 2020 to now*
+* Part of the mission done in remote work due to Covid-19 pandemic*
 
 ### Context
 Member of a team of 10 to 12 people that provides database as a service (DBaaS) to other development teams of the R&D of Orange France.
@@ -78,16 +79,10 @@ These development teams are responsible of Orange public applications like Orang
 **Responsibility**: Python Golang software developer, DevOps engineer and system administrator
 
 ### Tasks to be carried out
--
--
--
--
+- TBC
 
 ### Results
--
--
--
--
+- TBC
 
 ### Project Environment
 - **Languages, Scripting & Frameworks**: Python, Golang, Bash, Ginkgo, Godog, linters, Poetry, PIP, Pytest, Jinja, Flask
@@ -96,8 +91,9 @@ These development teams are responsible of Orange public applications like Orang
 - **Working methodology**: Scrum
 
 ## Naval Group, as an Alten contractor
-*2020, January to July
-*6 months, full time
+*2020, January to July*
+*6 months, full time*
+*Part of the mission done in remote work due to Covid-19 pandemic*
 
 ### Context
 Naval constructions for French and foreign marine military corpses. Confidential environment. Team responsible for security and IT hygiene of software deployed on ships and submarines.
@@ -124,8 +120,9 @@ Naval constructions for French and foreign marine military corpses. Confidential
 - **Working methodology**: Scrum
 
 ## Mane LDT, as an Alten contractor
-*2019, November to December
-*2 months, Full-time
+*2019, November to December*
+*2 months, Full-time*
+*No remote work*
 
 ### Context
 Mane is a company of the chemical sector, making and selling products used in fragrances, dyes; food additives or medicines. Work package mission. Customer headquartered in Le-Bar-sur-Loup (06, France)
@@ -152,8 +149,9 @@ The team comprised 4 back-end, 2 front-end developers, 1 scrum master, 1 project
 - **Working methodology**: Scrum, DevOps
 
 ## K-City Labs, Kinaxia group, as an Alten contractor
-*2019, September to October
-*2 months, Full time
+*2019, September to October*
+*2 months, Full time*
+*No remote work*
 
 ### Context
 - Medium sized company in the real estate and town planning sector. Headcount: more than 200 employees.
@@ -183,8 +181,9 @@ Developed features were loaded to production, successfully tested, available for
 - **Working methodology**: Scrum
 
 ## Amadeus, as an Alten contractor
-*November 2016 to August 2019
-*3 years, Full time
+*November 2016 to August 2019*
+*3 years, Full time*
+*No remote work*
 
 ### Context
 SGB entity of Amadeus, SGB stands for Strategic Growth Business. It aims at diversifying the company outside its historical scope, which consists in delivering IT solutions for airlines. I was member of an 8 people team of experts recognized for their business.
@@ -197,7 +196,7 @@ On the other hand, be a QA white hat, application security expert, in charge of 
 
 ### Tasks to be carried out
 - Maintain and create Kibana dashboards asked by internal or external customers for reporting purposes
-- Inner source development of a web tool, named “PTRReport”, allowing to build and monitor performance indicators on the software activity of R&D teams
+- Inner source development of a web tool, named _PTRReport_, allowing to build and monitor performance indicators on the software activity of R&D teams
 - As a QA white hat, implement a secure development life cycle to ensure security of software applications
 - Develop in Java a framework of automated rail booking GUI tests based on Selenium
 - Maintain and deploy a legacy report generation tool that was written in old technologies: Java EE, WebLogic, iPlanet, SQL Server
@@ -216,8 +215,9 @@ On the other hand, be a QA white hat, application security expert, in charge of 
 - **Working methodology**: Scrum, Kanban, Threat modeling, STRIDE
 
 ## Caisses Sociales de Monaco, as an Abylsen contractor
-*2016, May to August
-*3 months, full time
+*2016, May to August*
+*3 months, full time*
+*No remote work*
 
 ### Context
 The Monaco principality owned company manages the social security and pension, retirement operations of Monaco workers and citizens. I was working in the "Project Implementation Department" (*Pôle Réalisation de Projets* in French) of the IT service
@@ -243,8 +243,8 @@ The Monaco principality owned company manages the social security and pension, r
 - **Working methodology**: Waterfall
 
 ##Amadeus, as an Abylsen contractor
-*January 2013 to April 2016
-*3 years, full time
+*January 2013 to April 2016*
+*3 years, full time*
 
 ### Context
 Amadeus is the European leader of IT services for the tourism and travel industry.
@@ -278,8 +278,8 @@ I was part of the Inventory Integration team, in the Airline IT division.
 - **Working methodology**: Waterfall then SCRUM and Kanban
 
 ## PSA Peugeot Citroën, as an LGM Ingénierie contractor
-*2012, April to September
-*6 months, internship
+*2012, April to September*
+*6 months, internship*
 
 ### Context
 PSA Peugeot-Citroën is a French car maker. I was working as an intern in the embedded software – bondage box (*Boîtier de Servitude – Logiciel embarqué* in French) of the technical center at Velizy (78), near Paris, France
