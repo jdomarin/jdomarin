@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @jdomarin, a French, mainly-Python backend software development engineer, currently working for Orange France
-- 👀 I’m interested in cybersecurity, big data and data processing, Python programming and automation
-- 🌱 I’m currently learning everything related to Google Cloud Platform on Coursera - and, by extension, anything related to IT in the cloud
-- 💞️ I’m looking to collaborate on ... (TBD)
-- 📫 How to reach me: search for "jdomarin" on Facebook, Instagram, Stack Overflow and/or "Jeremy Domarin" on the aforementioned social media and LinkedIn
+- 👋 Hi, I’m @jdomarin, a French DevOps engineer, initially software backend developer, currently working for Ekinops
+- 👀 I’m interested in cybersecurity, big data and data processing, Python/Golang/Rust programming, DevOps and automation including CI/CD
+- 🌱 I’m currently learning main cloud and automation technologies, especially Terraform, Ansible, Azure
+- 📫 How to reach me: search for "jdomarin" on Facebook, Instagram, Stack Overflow and/or "Jérémy Domarin" on the aforementioned social media and LinkedIn
 
 <!---
 jdomarin/jdomarin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
