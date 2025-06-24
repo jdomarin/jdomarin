@@ -30,15 +30,16 @@ Début 2024, je commence à ne plus supporter d'habiter dans l'appartement où j
 * 2024-06-26: J'informe le vendeur de l'appartement visité cinq jours plus tôt que je souhaite acheter le bien qu'il met en vente. Nous tombons d'accord sur un prix de vente de 220k€.
 * 2024-07-08: Le midi, j'ai un second rendez-vous chez CAFPI à Antibes pour établir la liste des options possibles pour le financement de l'achat de l'appartement à Vallauris. CCE semble être favori. 
 * 2024-07-11: Je signe le compromis de vente avec le vendeur à l'office notarial *Falgon et associés* au Cannet, dans les Alpes-Maritimes. La signature définitive de l'acte de vente doit avoir lieu avant le 4 octobre sinon la vente est annulée. Je renonce alors à une semaine de vacances sur la presqu'île de Crozon début septembre.
+* 2024-07-22: Je paye l'intégralité des frais de notaire, calculés à 11,4k€, soit 5% du prix de vente (ça peut aller jusqu'à 10%)
 * 2024-07-29: Je reçois de mon courtier une réponse favorable de la Société Générale de Golfe Juan concernant l'aspect financier de l'achat immobilier.
-* 2024-08-09: J'ouvre un compte bancaire à la Société Générale, à l'agence de Golfe-Juan, dans les Alpes-Maritimes, entre Antibes et Cannes.
+* 2024-08-09: J'ouvre un compte bancaire à la Société Générale, à l'agence de Golfe Juan, dans les Alpes-Maritimes, entre Antibes et Cannes.
 * 2024-08-16: Je notifie au bailleur de mon logement à Antibes que je partirai d'ici au 30 septembre et propose de fixer l'état des lieux de sortie à cette date. Le bailleur accepte.
 * 2024-08-23: L'ouverture du compte bancaire à la Société Générale est effective.
 * 2024-08-24: Je souscris l'assurance habitation de mon futur logement à Vallauris chez SOGESSUR, l'assurance habitation de la Société Générale. C'est une condition *sine qua non* pour signer l'acte de vente.
 * 2024-09-02: Je reçois l'offre de prêt de la Société Générale de Golfe-Juan: 201k€ pour un emprunt sur 25 ans à un taux de 3,7%. Le délai légal de réflexion ne me permet pas de signer l'offre de prêt avant le 13 septembre.
 * 2024-09-03: J'effectue auprès de mon employeur les démarches pour domicilier mon salaire à la Société Générale et non plus chez BoursoBank. C'est une condition *sine qua non* pour signer l'acte de vente. Tous mes salaires depuis septembre 2024 sont versés sur mon compte SG.
 * 2024-09-09: Je demande la clôture de mon Plan Epargne Logement à La Banque Postale impliquant l'utilisation de 100% des fonds qui s'y trouvent, soit environ 33k€ à l'époque.
-* 2024-09-13: Je signe l'offre de prêt de la Société Générale de Golfe-Juan. Ceci débloque les fonds qui sont transférés au notaire le lundi suivant.
+* 2024-09-13: Je signe l'offre de prêt de la Société Générale de Golfe Juan. Ceci débloque les fonds qui sont transférés au notaire le lundi suivant.
 * 2024-09-15: Je commence à faire les cartons pour le déménagement.
 * 2024-09-16: La demande est prise en compte, les fonds du PEL sont disponibles.
 * 2024-09-17: Je fais l'ultime virement au notaire (23600 €) qui scelle la signature de l'acte de vente prévue 6 jours plus tard.
