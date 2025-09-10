@@ -1,17 +1,11 @@
-\# Conversion testimony of Jérémy Domarin
+# Conversion testimony of Jérémy Domarin
 
 
+*This is a translation into English of `temoignage_de_conversion.md` file content which is written in French, my native language.*
 
-\*This is a translation into English of `temoignage\_de\_conversion.md` file content which is written in French, my native language.\*
+*This version of my testimony is the oldest of those present in this GitHub repository*
 
-
-
-\*This version of my testimony is the oldest of those present in this GitHub repository\*
-
-
-
-\*File named `conversion\_testimony\_2014.md` may take a few elements from this testimony and include others\*
-
+*File named `conversion_testimony_2014.md` may take a few elements from this testimony and include others*
 
 
 I was born into a family where nobody knew the Lord.
@@ -29,9 +23,7 @@ I lived with my mother and my sister, my father did not live with me during his 
 I was neither interested in God, Jesus or the Bible but I remember going sometimes to a Catholic church.
 
 
-
-\### First contacts with the faith
-
+### First contacts with the faith
 
 
 When I was 9 years old, our then neighbor started talking about Jesus to my mother, and she converted.
@@ -45,9 +37,7 @@ It was there that I heard the Gospel for the first time. The Word of God made me
 As I was studying in junior high school, I started reading the Bible, but without having any personal experience with the Lord.
 
 
-
-\### Personal conversion
-
+### Personal conversion
 
 
 Then, in the summer after my 13th birthday, things started to change during a teen camp in the South of France.
@@ -61,9 +51,7 @@ I gave my life to him because I was touched by the power of the Gospel and the i
 I wanted to become like them and look like Jesus.
 
 
-
-\### After my conversion
-
+### After my conversion
 
 
 Since then, my behavior has changed, I am no longer aggressive and calmer, God has taken the first place in my life and my main focus.
@@ -76,5 +64,4 @@ My goal is to live with the Lord, to serve him, please him, obey him. What I do 
 
 As I face the trials and difficulties of life, I experience peace, I do not panic, I pray, I lean on the Lord.
 
-I strongly Believe I will never regret having chosen to follow Jesus and to be his disciple.
-
+I strongly believe I will never regret having chosen to follow Jesus and to be his disciple.
