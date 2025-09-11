@@ -10,8 +10,8 @@ This folder includes:
 - My resume/curriculum vitae in English and French
 - Two notices to recruiters or hiring professionals who contact me through LinkedIn: one on how to communicate with me, another listing red flags for job offers or recruitment process
 - My Developer Story from Stack Overflow which no longer includes this feature
-- Two versions of my testimony saying how I became a born again disciple of Jesus-Christ, in French only -- English version might come later on
-- The story of how I became owner of a real estate property in the French Riviera for the first time in 2024, in French only so far
+- Two versions of my testimony saying how I became a born again disciple of Jesus-Christ, both in French and English
+- The story of how I became owner of a real estate property in the French Riviera for the first time in 2024, both in French and English
 
 <!---
 jdomarin/jdomarin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
