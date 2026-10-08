@@ -1,9 +1,9 @@
 # CURRICULUM VITAE
 
-- *Identité et âge :*	Jérémy DOMARIN, 33 ans (né en juin 1990)
-- *Expérience :* 11 ans d’expérience en développement et intégration de logiciels (R&D)
+- *Identité et âge :*	Jérémy DOMARIN, 36 ans (né en juin 1990)
+- *Expérience :* 13 ans d’expérience en développement et intégration de logiciels (R&D)
 - **Coordonnées :**
-	- *Adresse :* Le Vauban A – 136 chemin du Puy – 06600 ANTIBES – France
+	- *Adresse :* Les Chênes A – 34 avenue des Mimosas – 06220 VALLAURIS – France
 	- *Courriel :* jdomarin at gmail.com
 	– *Téléphone :* me demander
 - *Nationalité :* Française
@@ -18,7 +18,7 @@
 	- *Anglais :* courant, score obtenu au TOEIC de 880 en avril 2010
 	- *Espagnol :* notions
 - *Domaines de prédilection :* Cybersécurité, big data, traitement de données, REST API, applications web, sciences industrielles
-- *Mobilité :* Titulaire du permis B. Rayon de 70 km autour d’Antibes. Maximum 2 heures par jour de trajet domicile-travail aller-retour. Courts déplacements ponctuels et réguliers acceptés au-delà de cette distance.
+- *Mobilité :* Titulaire du permis B. Rayon de 70 km autour du domicile. Maximum 2 heures par jour de trajet domicile-travail aller-retour. Courts déplacements ponctuels ou réguliers acceptés au-delà de cette distance.
 - *Télétravail :* pleinement ouvert
 
 # DOMAINES DE COMPÉTENCES
@@ -29,7 +29,7 @@
 - Test et déploiement d’applications logicielles
 - Maintenance applicative, investigation et résolution d’anomalies logicielles, support
 - Animation de groupe de développeurs, partage de connaissances, veille technologique
-- Développement en environnement cloud
+- Développement et déploiements en environnement cloud
 
 # CONNAISSANCES TECHNIQUES
 - Langages de programmation : Python, Shell, JavaScript, NodeJS, Java, HTML5/CSS3
@@ -53,7 +53,7 @@
 ## Ekinops France (06) | depuis septembre 2023 (en cours)
 
 R&D Engineer successivement dans les équipes GitOps puis Cloud SRE
-Déploiement automatisé d'applications de virtualisation réseau et de validations de function réseau dans le cloud Azure.
+Déploiement automatisé d'applications de virtualisation réseau et de validations de fonctions réseau dans le cloud Azure.
 Télétravail : jusqu’à trois jours par semaine
 
 ### Environnement technique
@@ -69,12 +69,18 @@ Aider la branche Access d'Ekinops à migrer dans le cloud, les applications dél
 
 - Création d'un playbook Ansible pour valider le bon déploiement des applications dans le cloud
 - Activation du protocole mTLS pour une application déployée dans le cloud utilisant Apache 2
-- Transformer les playbooks Ansible pour qu'ils soient idempotents
-- Rendre les playbooks capables de déployer une infrastructure légère ou lourde avec la possibilité de migrer de la plus légère à la plus lourde
+- Rendre les playbooks Ansible idempotents
+- Rendre les playbooks capables de déployer une infrastructure légère ou lourde avec la possibilité de migrer de l'une à l'autre
+- Contribution à la mise en place d'une pile d'observabilité sur les applications de la suite Compose Cloud, notamment grâce au protocole MCP
+- Facilitation de la migration des instances déjà déployées vers une distribution plus récente de Linux
+- Mise en place de scans automatisés dans le cloud en utilisant des agents Nessus
+- Développement d'une base de données de gestion de configuration de la suite Compose Cloud
 
-### Résultat
+### Résultats
 
-Diminution des coûts de l'infrastructure déployée dans le cloud
+Diminution des coûts de l'infrastructure déployée dans le cloud (FinOps)
+Mise à disposition d'instances dans le Cloud pour plusieurs clients
+Meilleure gestion du suivi des déploiements
 
 ## ALTEN / Orange (06) | octobre 2020 - septembre 2023 (3 ans)
 Offres automatisées d’instances de services de bases de données aux développeurs de l’entité Hébergement et d’Exploitation de la Digital Factory à Orange France
